@@ -7,5 +7,6 @@
 <h3>Made videos on how to connect vscode with github</h3>
 <h3>today did some debugging from a previous code</h3>
 <h3>we did some theoretical mechanics problems today</h3>
+<h3>started c++ again (algorithms)</h3>
 
 #not live now
