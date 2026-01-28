@@ -8,5 +8,6 @@
 <h3>today did some debugging from a previous code</h3>
 <h3>we did some theoretical mechanics problems today</h3>
 <h3>started c++ again (algorithms)</h3>
+<h2>We learned c++ (functions)</h2>
 
 #not live now
