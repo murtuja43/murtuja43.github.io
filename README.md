@@ -1,4 +1,4 @@
-<h2>Daily Log & To Do</h2>
+<h2><strong>Daily Log & To Do</strong></h2>
 
 <h2>This repository is used as my daily learning and consistency log.</h2>
 
