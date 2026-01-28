@@ -1,6 +1,6 @@
+<h2>This repository is used as my daily learning and consistency log.</h2>
 <h2><strong>Daily Log & To Do</strong></h2>
 
-<h2>This repository is used as my daily learning and consistency log.</h2>
 
 <p>🟢 Restarted C++ (Algorithms)</p>
 <p>🟢 Made videos on how to connect VS Code with GitHub</p>
