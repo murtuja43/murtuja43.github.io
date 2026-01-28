@@ -2,12 +2,13 @@
 # personal portfolio
 
 <h1>This repository is now used as my daily learning and consistency log.</h1>
-<h3>Working on excel project</h3>
-<h3>Completed a course on Excel on udemy</h3>
-<h3>Made videos on how to connect vscode with github</h3>
-<h3>today did some debugging from a previous code</h3>
-<h3>we did some theoretical mechanics problems today</h3>
-<h3>started c++ again (algorithms)</h3>
-<h2>We learned c++ (functions)</h2>
+<p style="color: green;">Working on an Excel Project</p>
+<p style="color: green;">Completed an Excel Course on Udemy</p>
+<p style="color: green;">Made Videos on How to Connect VS Code with GitHub</p>
+<p style="color: green;">Did Some Debugging from a Previous Code</p>
+<p style="color: green;">Solved Some Theoretical Mechanics Problems</p>
+<p style="color: green;">Started C++ Again (Algorithms)</p>
+<p style="color: green;">Learned C++ (Functions)</p>
+
 
 #not live now
