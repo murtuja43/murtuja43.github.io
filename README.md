@@ -9,6 +9,8 @@
 <p>🟢 Completed an Excel Course on Udemy</p>
 <p>🟢 Solved theoretical mechanics problems</p>
 <p>🟢 Learned C++ (Functions)</p>
+<p>🟢 Learned some philosophy today. Sometimes people just don't think
+so much about things and are happy. But sometimes people think about thinks like- the meaning of life, who am i, etc and feel unhappy. Still choosing 1 which gives you relaxation is the best.</p>
 
 <hr/>
 
