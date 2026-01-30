@@ -12,6 +12,7 @@
 <p>🟢 Learned some philosophy today. Sometimes people just don't think
 so much about things and are happy. But sometimes people think about thinks like- the meaning of life, who am i, etc and feel unhappy. Still choosing 1 which gives you relaxation is the best.</p>
 <p>🟢 Took ideas of machine learning, what is it, how it works, why we need it, etc</p>
+<p>🟢 Learned c++ functions more</p>
 
 <hr/>
 
