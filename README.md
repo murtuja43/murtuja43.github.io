@@ -14,6 +14,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Took ideas of machine learning, what is it, how it works, why we need it, etc</p>
 <p>🟢 Learned c++ functions more</p>
 <p>🟢 Started learning AI Engineering</p>
+<p>🟢 I'm using "https://roadmap.sh/ai-engineer" this to record my ai engineering progress</p>
 
 <hr/>
 
