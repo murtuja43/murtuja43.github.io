@@ -15,7 +15,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Learned c++ functions more</p>
 <p>🟢 Started learning AI Engineering</p>
 <p>🟢 I'm using "https://roadmap.sh/ai-engineer" this to record my ai engineering progress</p>
-<p>🟢 Just read an article "https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer".</p>
+<p>🟢 Just read an article "https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer". In this article I learned what we need to learn to become an AI Engineer.</p>
 
 <hr/>
 
