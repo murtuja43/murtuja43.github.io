@@ -17,6 +17,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 I'm using "https://roadmap.sh/ai-engineer" this to record my ai engineering progress</p>
 <p>🟢 Just read an article "https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer". In this article I learned what we need to learn to become an AI Engineer.</p>
 <p>🟢 Solved some PDE (partial differentail equation) problems.</p>
+<p>🟢 Participated in a chess tournament (ranked 7th place) and also practiced some ideas of c++</p>
 
 <hr/>
 
