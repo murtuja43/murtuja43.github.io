@@ -19,6 +19,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Solved some PDE (partial differentail equation) problems.</p>
 <p>🟢 Participated in a chess tournament (ranked 7th place) and also practiced some ideas of c++</p>
 <p>🟢 Just read an article "https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer". In this article I learned what we need to learn to become an AI Engineer.</p>
+<p>🟢 Started using jupyter notebook and vscode together. </p>
 
 
 <hr/>
