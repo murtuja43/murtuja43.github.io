@@ -21,6 +21,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Just read an article "https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer". In this article I learned what we need to learn to become an AI Engineer.</p>
 <p>🟢 Started using jupyter notebook and vscode together. </p>
 <p>🟢 Delivered a presentation on Philosophy (What is philosophy, why it is needed, how this is connected with other specialities and etc were the topics I explained.)</p>
+<p>🟢 Studied an ai engineering article (new one)</p>
 
 
 <hr/>
