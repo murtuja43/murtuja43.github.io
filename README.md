@@ -23,6 +23,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Delivered a presentation on Philosophy (What is philosophy, why it is needed, how this is connected with other specialities and etc were the topics I explained.)</p>
 <p>🟢 Studied an ai engineering article</p>
 <p>🟢 Studied an ai engineering article (a new one)</p>
+<p>🟢 Practiced c++ functions</p>
 
 
 <hr/>
