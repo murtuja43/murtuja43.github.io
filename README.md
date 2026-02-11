@@ -24,6 +24,8 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Studied an ai engineering article</p>
 <p>🟢 Studied an ai engineering article (a new one)</p>
 <p>🟢 Practiced c++ functions</p>
+<p>🟢 Started Learning Ai Engineering. Currently learning from </br>
+<p>https://app.datacamp.com/learn/?utm_source=customerio&utm_medium=email&utm_campaign=240719_1-welcome_2-mix_3-all_4-na_5-na_6-na_7-le_8-emal-ci_9-na_10-bau_11-email&utm_content=auto</p></p>
 
 
 <hr/>
