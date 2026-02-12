@@ -28,6 +28,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>Read an article on ai engineer "https://roadmap.sh/ai/guide/what-is-ai-engineering-1770816097584" </p>
 <p>Took idea of how a ai engineer is hired from here https://resources.workable.com/ai-engineer-job-description</p>
 
+<p>🟢 Learned AI in Product Development: Netflix, BMW, and PepsiCo from https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw#:~:text=AI%20can%20help%20make%20product,and%20gain%20a%20competitive%20edge.</p>
 </p>
 
 
