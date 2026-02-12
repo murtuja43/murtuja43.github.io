@@ -14,6 +14,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Took ideas of machine learning, what is it, how it works, why we need it, etc</p>
 <p>🟢 Learned c++ functions more</p>
 <p>🟢 Started learning AI Engineering</p>
+<p>🟢 AI engineer roadmap https://roadmap.sh/ai-engineer</p>
 <p>🟢 I'm using "https://roadmap.sh/ai-engineer" this to record my ai engineering progress</p>
 <p>🟢 Just read an article "https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer". In this article I learned what we need to learn to become an AI Engineer.</p>
 <p>🟢 Solved some PDE (partial differentail equation) problems.</p>
@@ -27,10 +28,7 @@ so much about things and are happy. But sometimes people think about thinks like
 <p>🟢 Started Learning Ai Engineering. Currently learning from https://app.datacamp.com/learn/?utm_source=customerio&utm_medium=email&utm_campaign=240719_1-welcome_2-mix_3-all_4-na_5-na_6-na_7-le_8-emal-ci_9-na_10-bau_11-email&utm_content=auto. (Update: it has 13 courses to complete the whole course, but only the first one is free. that's why not learning from here anymore)
 <p>Read an article on ai engineer "https://roadmap.sh/ai/guide/what-is-ai-engineering-1770816097584" </p>
 <p>Took idea of how a ai engineer is hired from here https://resources.workable.com/ai-engineer-job-description</p>
-
-<p>🟢 Learned AI in Product Development: Netflix, BMW, and PepsiCo from https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw#:~:text=AI%20can%20help%20make%20product,and%20gain%20a%20competitive%20edge.</p>
-</p>
-
+<p>🟢 Learned AI in Product Development: Netflix, BMW, and PepsiCo from https://www.virtasant.com/ai-today/ai-in-product-development-netflix-bmw#:~:text=AI%20can%20help%20make%20product,and%20gain%20a%20competitive%20edge.</p> </p>
 
 
 
