@@ -32,7 +32,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned ai engineer vs ml engineer from https://www.coursera.org/articles/what-is-machine-learning-engineer & https://www.codecademy.com/resources/blog/what-does-an-ai-engineer-do</p>
 
-<p>🟢 Learned about AGI from https://aws.amazon.com/what-is/artificial-general-intelligence/</p>
+<p>🟢 Learned about AGI from https://aws.amazon.com/what-is/artificial-general-intelligence/. Just read an article on ai vs agi from https://www.forbes.com/sites/bernardmarr/2024/05/20/the-crucial-difference-between-ai-and-agi/ but remember agi (artificial general intellegence) is still a long way to go. it's not invented yet.</p>
+
 <p>🟢 </p>
 
 
