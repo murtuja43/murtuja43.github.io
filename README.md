@@ -32,6 +32,8 @@ so much about things and are happy. But sometimes people think about thinks like
 
 <p>🟢 Learned ai engineer vs ml engineer from https://www.coursera.org/articles/what-is-machine-learning-engineer & https://www.codecademy.com/resources/blog/what-does-an-ai-engineer-do</p>
 
+<p>🟢 Learned about AGI from https://aws.amazon.com/what-is/artificial-general-intelligence/</p>
+<p>🟢 </p>
 
 
 
